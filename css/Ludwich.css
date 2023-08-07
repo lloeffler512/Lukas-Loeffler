@@ -1,0 +1,36 @@
+body{
+	margin: 0px;
+}
+
+header{
+	background-color: grey;
+	padding: 15px;
+	padding-bottom: 10px;
+}
+
+header nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+main{
+	max-width: 800px;
+	padding: 20px;
+}
+
+footer{
+	background-color: #ff8c00;
+	padding: 20px 20px;
+	margin-bottom: 0;
+}
+
+.menu{
+	font-family: sans-serif;
+
+}
+.menu a:hover{
+	color: navy;
+	font-family: monospace;
+}
